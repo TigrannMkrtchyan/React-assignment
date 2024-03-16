@@ -1,0 +1,18 @@
+.main {
+  cursor: pointer;
+  display: flex;
+  column-gap: 5px;
+  border: 1px solid #eaebf0;
+  padding: 8px 16px 8px 12px;
+  border-radius: 100px;
+  p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.25px;
+  }
+
+  .icon {
+    fill: #4abc7a;
+  }
+}
